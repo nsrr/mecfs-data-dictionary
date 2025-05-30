@@ -1,0 +1,7 @@
+{
+  "id": "bad_dreams",
+  "display_name": "(h) Had bad dreams",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

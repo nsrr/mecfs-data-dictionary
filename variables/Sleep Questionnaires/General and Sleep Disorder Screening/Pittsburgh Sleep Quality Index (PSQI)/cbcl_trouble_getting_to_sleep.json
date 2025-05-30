@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_trouble_getting_to_sleep",
+  "display_name": "(a) Cannot get to sleep within 30 minutes",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

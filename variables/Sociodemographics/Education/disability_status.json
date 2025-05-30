@@ -1,0 +1,7 @@
+{
+  "id": "disability_status",
+  "display_name": "Disability status",
+  "description": "",
+  "type": "choices",
+  "domain": "disability"
+}

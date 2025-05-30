@@ -1,0 +1,6 @@
+{
+  "id": "wrist_total_3d_counts",
+  "display_name": "The mean of the total (sum) triaxial/vector magnitude activity counts per valid day from the wrist-worn device",
+  "description": "",
+  "type": "numeric"
+}

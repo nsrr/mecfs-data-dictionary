@@ -1,0 +1,7 @@
+{
+  "id": "wrist_wear_time",
+  "display_name": "The mean number of minutes of scored wear time per valid day from the wrist-worn device",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

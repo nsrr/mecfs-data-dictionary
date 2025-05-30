@@ -1,0 +1,7 @@
+{
+  "id": "hip_light_time",
+  "display_name": "The mean number of light intensity minutes per valid day defined as the number of minutes with a count value > 100 and < 2020 counts per minute from the waist-worn device",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

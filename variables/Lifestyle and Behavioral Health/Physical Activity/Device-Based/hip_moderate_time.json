@@ -1,0 +1,7 @@
+{
+  "id": "hip_moderate_time",
+  "display_name": "The mean number of moderate intensity minutes per valid day defined as the number of minutes with a count value > 2020 and < 5999 counts per minute from the waist-worn device",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

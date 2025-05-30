@@ -1,0 +1,6 @@
+{
+  "id": "hip_total_vertical_counts",
+  "display_name": "The mean of the total (sum) triaxial/vector magnitude activity counts per valid day from the waist-worn device",
+  "description": "",
+  "type": "numeric"
+}

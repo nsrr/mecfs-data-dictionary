@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "less than hs",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "hs",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "some college",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "college grad",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "adv degree",
+    "description": ""
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "value": "5",
+    "display_name": "Not at all",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A little bit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Quite a bit",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Very much",
+    "description": ""
+  },
+  {
+    "value": "-99",
+    "display_name": "unanswered",
+    "description": "",
+    "missing": true
+  }
+]

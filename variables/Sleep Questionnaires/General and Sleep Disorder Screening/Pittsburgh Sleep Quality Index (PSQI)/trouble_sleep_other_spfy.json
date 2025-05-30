@@ -1,0 +1,7 @@
+{
+  "id": "trouble_sleep_other_spfy",
+  "display_name": "5. How often during the past month have you had trouble sleeping because of the reasons described above?",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "tender_points",
+  "display_name": "Tender Points",
+  "description": "tender points",
+  "type": "integer"
+}

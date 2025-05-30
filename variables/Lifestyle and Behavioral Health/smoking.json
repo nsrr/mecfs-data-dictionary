@@ -1,0 +1,7 @@
+{
+  "id": "smoking",
+  "display_name": "Smoking",
+  "description": "",
+  "type": "choices",
+  "domain": "smoke"
+}

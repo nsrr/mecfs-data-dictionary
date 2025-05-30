@@ -1,0 +1,7 @@
+{
+  "id": "fukuda_criteria",
+  "display_name": "Fukuda Criteria",
+  "description": "",
+  "type": "choices",
+  "domain": "criteria"
+}

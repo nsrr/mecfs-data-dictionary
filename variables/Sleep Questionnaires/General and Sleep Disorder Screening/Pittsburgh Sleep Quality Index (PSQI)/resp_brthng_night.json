@@ -1,0 +1,7 @@
+{
+  "id": "resp_brthng_night",
+  "display_name": "(d) Cannot breathe comfortably",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

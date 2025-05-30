@@ -1,0 +1,6 @@
+{
+  "id": "hip_avg_daily_mets",
+  "display_name": "The mean metabolic equivalents of task (METs) for all valid days from the waist-worn device",
+  "description": "",
+  "type": "numeric"
+}

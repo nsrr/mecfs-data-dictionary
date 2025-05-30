@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not during the past month",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Less than once a week",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Once or twice a week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Three or more times a week",
+    "description": ""
+  }
+]

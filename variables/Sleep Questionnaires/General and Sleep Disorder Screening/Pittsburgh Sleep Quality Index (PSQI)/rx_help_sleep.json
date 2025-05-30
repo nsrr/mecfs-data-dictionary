@@ -1,0 +1,7 @@
+{
+  "id": "rx_help_sleep",
+  "display_name": "6. During the past month how often have you taken medicine (prescribed or &quot;over the counter&quot;) to help you sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

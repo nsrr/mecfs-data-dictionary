@@ -1,0 +1,6 @@
+{
+  "id": "promis_sleep_dist_score",
+  "display_name": "Sleep Disturbance Score Calculation",
+  "description": "",
+  "type": "integer"
+}

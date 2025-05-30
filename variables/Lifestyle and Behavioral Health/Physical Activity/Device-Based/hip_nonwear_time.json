@@ -1,0 +1,7 @@
+{
+  "id": "hip_nonwear_time",
+  "display_name": "The mean number of minutes of scored non-wear time per valid day from the waist-worn device",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "single",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "marred",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "divorced",
+    "description": ""
+  }
+]

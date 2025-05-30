@@ -1,0 +1,7 @@
+{
+  "id": "problem_stay_awake",
+  "display_name": "7. During the past month how often have you had trouble staying awake while driving eating meals or engaging in social activity?",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

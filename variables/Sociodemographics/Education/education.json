@@ -1,0 +1,7 @@
+{
+  "id": "education",
+  "display_name": "Education",
+  "description": "",
+  "type": "choices",
+  "domain": "education"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "bathroom_night",
+  "display_name": "(c) Have to get up to use the bathroom",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "participantid",
+  "display_name": "subject identifier",
+  "description": "",
+  "type": "identifier",
+  "commonly_used": true
+}

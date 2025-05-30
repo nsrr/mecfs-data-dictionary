@@ -1,0 +1,7 @@
+{
+  "id": "promis_sleep_satisfied",
+  "display_name": "8. I was satisfied with my sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_re"
+}

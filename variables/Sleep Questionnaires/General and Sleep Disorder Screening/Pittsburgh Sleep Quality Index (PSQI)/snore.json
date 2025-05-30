@@ -1,0 +1,7 @@
+{
+  "id": "snore",
+  "display_name": "(e) Cough or snore loudly",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

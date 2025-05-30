@@ -1,0 +1,7 @@
+{
+  "id": "feel_cold",
+  "display_name": "(f) Feel too cold",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

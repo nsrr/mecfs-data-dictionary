@@ -1,0 +1,7 @@
+{
+  "id": "birth_sex",
+  "display_name": "Birth Sex",
+  "description": "",
+  "type": "choices",
+  "domain": "sex"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sleep_quality",
+  "display_name": "9. During the past month how would you rate your sleep quality overall?",
+  "description": "",
+  "type": "choices",
+  "domain": "good_bad"
+}

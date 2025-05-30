@@ -1,0 +1,7 @@
+{
+  "id": "hip_vigorous_time",
+  "display_name": "The mean number of vigorous intensity minutes per valid day defined as the number of minutes with a count value > 5999 counts per minute from the waist-worn device",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

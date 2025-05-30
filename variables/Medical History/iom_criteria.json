@@ -1,0 +1,7 @@
+{
+  "id": "iom_criteria",
+  "display_name": "IOM Criteria",
+  "description": "",
+  "type": "choices",
+  "domain": "criteria"
+}

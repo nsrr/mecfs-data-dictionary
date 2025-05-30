@@ -1,0 +1,6 @@
+{
+  "id": "hip_total_steps",
+  "display_name": "The mean of the total steps per valid day from the waist-worn device",
+  "description": "",
+  "type": "numeric"
+}

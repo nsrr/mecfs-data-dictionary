@@ -1,0 +1,7 @@
+{
+  "id": "wrist_valid_days",
+  "display_name": "The number of valid days of wear in the assessment period defined as a any day with >10hrs/day wear time from the wrist-worn device",
+  "description": "",
+  "type": "integer",
+  "units": "days"
+}

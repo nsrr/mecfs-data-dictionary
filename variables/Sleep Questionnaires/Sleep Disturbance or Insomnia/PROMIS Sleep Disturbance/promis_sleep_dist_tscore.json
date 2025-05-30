@@ -1,0 +1,6 @@
+{
+  "id": "promis_sleep_dist_tscore",
+  "display_name": "Sleep Disturbance T Score Calculation",
+  "description": "",
+  "type": "numeric"
+}

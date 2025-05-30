@@ -1,0 +1,7 @@
+{
+  "id": "promis_felt_alert_woke_up",
+  "display_name": "2. I felt alert when I woke up...",
+  "description": "",
+  "type": "numeric",
+  "domain": "promis_re"
+}

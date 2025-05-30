@@ -1,0 +1,7 @@
+{
+  "id": "promis_sleep_refresh",
+  "display_name": "2. My sleep was refreshing",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_re"
+}

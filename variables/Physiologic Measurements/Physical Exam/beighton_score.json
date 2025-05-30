@@ -1,0 +1,6 @@
+{
+  "id": "beighton_score",
+  "display_name": "Beighton Score",
+  "description": "hyperflexible areas",
+  "type": "integer"
+}

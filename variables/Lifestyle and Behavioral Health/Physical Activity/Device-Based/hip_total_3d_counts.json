@@ -1,0 +1,6 @@
+{
+  "id": "hip_total_3d_counts",
+  "display_name": "The mean of the total (sum) vertical (Y-axis) activity counts per valid day from the waist-worn device",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "canadian_criteria",
+  "display_name": "Canadian Criteria",
+  "description": "",
+  "type": "choices",
+  "domain": "criteria"
+}

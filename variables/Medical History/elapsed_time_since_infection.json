@@ -1,0 +1,7 @@
+{
+  "id": "elapsed_time_since_infection",
+  "display_name": "Elapsed Time since infection in months",
+  "description": "",
+  "type": "numeric",
+  "units": "months"
+}

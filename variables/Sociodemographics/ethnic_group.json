@@ -1,0 +1,7 @@
+{
+  "id": "ethnic_group",
+  "display_name": "Ethnic Group",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity"
+}

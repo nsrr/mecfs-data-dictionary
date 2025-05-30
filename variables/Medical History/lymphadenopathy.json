@@ -1,0 +1,6 @@
+{
+  "id": "lymphadenopathy",
+  "display_name": "Lymphadenopathy",
+  "description": "Swollen lymph nodes",
+  "type": "integer"
+}

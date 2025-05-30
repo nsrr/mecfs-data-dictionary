@@ -1,0 +1,7 @@
+{
+  "id": "marital_status",
+  "display_name": "Marital Status",
+  "description": "",
+  "type": "choices",
+  "domain": "marry"
+}

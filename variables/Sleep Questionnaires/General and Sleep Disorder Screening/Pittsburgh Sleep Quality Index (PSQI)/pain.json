@@ -1,0 +1,7 @@
+{
+  "id": "pain",
+  "display_name": "(i) Have pain",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

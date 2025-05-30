@@ -1,0 +1,7 @@
+{
+  "id": "group",
+  "display_name": "Group",
+  "description": "",
+  "type": "choices",
+  "domain": "group"
+}

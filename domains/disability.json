@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not disabled",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "school disability",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "work disability",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "unemployed",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "part time",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "retired",
+    "description": ""
+  }
+]

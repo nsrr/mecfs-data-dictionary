@@ -1,0 +1,7 @@
+{
+  "id": "problem_enthusiasm",
+  "display_name": "8. During the past month how much of a problem has it been for you to keep up enthusiasm to get things done?",
+  "description": "",
+  "type": "choices",
+  "domain": "how_often"
+}

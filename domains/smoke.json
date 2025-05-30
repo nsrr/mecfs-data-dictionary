@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "non smoker",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "smoker",
+    "description": ""
+  }
+]
