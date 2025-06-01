@@ -1,6 +1,6 @@
 {
   "id": "mj_use",
-  "display_name": "MJ use",
+  "display_name": "Marijuana use",
   "description": "",
   "type": "choices",
   "domain": "drug"

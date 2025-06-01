@@ -1,3 +1,13 @@
 slug: mecfs
 visit: visit
-charts: []
+charts:
+- chart: birth_sex
+  title: sex
+- chart: race
+  title: race
+  
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org
