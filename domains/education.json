@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "less than hs",
+    "display_name": "less than high school",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "hs",
+    "display_name": "high school",
     "description": ""
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "value": "4",
-    "display_name": "adv degree",
+    "display_name": "advanced degree",
     "description": ""
   }
 ]
