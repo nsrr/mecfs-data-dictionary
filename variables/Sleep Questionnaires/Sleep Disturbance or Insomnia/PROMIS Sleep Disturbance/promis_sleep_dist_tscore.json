@@ -1,6 +1,9 @@
 {
   "id": "promis_sleep_dist_tscore",
-  "display_name": "Sleep Disturbance T Score Calculation",
+  "display_name": "PROMIS Sleep Disturbance Short Form 8a: T Score Calculation",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "promissd"
+  ]
 }

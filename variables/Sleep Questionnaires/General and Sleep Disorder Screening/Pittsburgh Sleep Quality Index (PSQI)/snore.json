@@ -1,7 +1,11 @@
 {
   "id": "snore",
-  "display_name": "(e) Cough or snore loudly",
-  "description": "",
+  "display_name": "Pittsburgh Sleep Quality Index: Cough or snore loudly during sleep the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=m1U3xiQ9jSC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
   "type": "choices",
-  "domain": "how_often"
+  "domain": "how_often",
+  "labels": [
+    "psqi_10cough",
+    "psqi"
+  ]
 }

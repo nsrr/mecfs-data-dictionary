@@ -1,7 +1,11 @@
 {
   "id": "bad_dreams",
-  "display_name": "(h) Had bad dreams",
-  "description": "",
+  "display_name": "Pittsburgh Sleep Quality Index: Have bad dreams during sleep last month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=QkB2ls75jrR)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "choices",
-  "domain": "how_often"
+  "domain": "how_often",
+  "labels": [
+    "psqi_13dream",
+    "psqi"
+  ]
 }

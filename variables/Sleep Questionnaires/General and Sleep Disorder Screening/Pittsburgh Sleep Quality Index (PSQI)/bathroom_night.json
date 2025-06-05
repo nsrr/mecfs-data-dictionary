@@ -1,7 +1,11 @@
 {
   "id": "bathroom_night",
-  "display_name": "(c) Have to get up to use the bathroom",
-  "description": "",
+  "display_name": "Pittsburgh Sleep Quality Index: Have to get up to use the bathroom the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJhhljX9oSA)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
   "type": "choices",
-  "domain": "how_often"
+  "domain": "how_often",
+  "labels": [
+    "psqi_08bathroom",
+    "psqi"
+  ]
 }

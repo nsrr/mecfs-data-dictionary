@@ -1,7 +1,11 @@
 {
   "id": "problem_enthusiasm",
-  "display_name": "8. During the past month how much of a problem has it been for you to keep up enthusiasm to get things done?",
-  "description": "",
+  "display_name": "Pittsburgh Sleep Quality Index: Problem to keep up enthusiasm to get things done last month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJKXeoQ5or0)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
   "type": "choices",
-  "domain": "how_often"
+  "domain": "how_often",
+  "labels": [
+    "psqi_18enthuse",
+    "psqi"
+  ]
 }

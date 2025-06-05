@@ -1,7 +1,11 @@
 {
   "id": "promis_sleep_satisfied",
-  "display_name": "8. I was satisfied with my sleep",
-  "description": "",
+  "display_name": "PROMIS Sleep Disturbance Short Form 8a: I was satisfied with my sleep",
+  "description": "Item from the PROMIS Sleep Disturbance instrument Short Form 8a. [Buysse et al, 2010 (PMID: 20550019)](https://pubmed.ncbi.nlm.nih.gov/20550019/)<br><br> [Search for all PROMIS SD variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissd)",
   "type": "choices",
-  "domain": "promis_re"
+  "domain": "promis_re",
+  "labels": [
+    "promissd_02satisfied",
+    "promissd"
+  ]
 }

@@ -1,6 +1,10 @@
 {
   "id": "mos_take_fall_asleep",
-  "display_name": "2. How long (in minutes) has it taken you to fall asleep each night?",
-  "description": "",
-  "type": "text"
+  "display_name": "Pittsburgh Sleep Quality Index: How long taken to fall asleep each night the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=my3jgPQcjHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "type": "text",
+  "labels": [
+    "psqi_02fallaslp",
+    "psqi"
+  ]
 }

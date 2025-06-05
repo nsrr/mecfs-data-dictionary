@@ -1,7 +1,11 @@
 {
   "id": "promis_hard_time_concentrate_day",
-  "display_name": "5. I had a hard time concentrating because of poor sleep...",
-  "description": "",
+  "display_name": "PROMIS Sleep-Related Impairment: Had a hard time concentrating because of poor sleep",
+  "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissri)",
   "type": "choices",
-  "domain": "promis"
+  "domain": "promis",
+  "labels": [
+    "promissri_05concentrate",
+    "promissri"
+  ]
 }

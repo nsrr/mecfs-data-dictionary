@@ -1,6 +1,10 @@
 {
   "id": "current_wake_time",
-  "display_name": "3. What time have you usually gotten up in the morning? (HH:MM)",
-  "description": "",
-  "type": "text"
+  "display_name": "Pittsburgh Sleep Quality Index: What time gotten up in the morning the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XJ_rvRup6U)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "type": "text",
+  "labels": [
+    "psqi_03morning",
+    "psqi"
+  ]
 }

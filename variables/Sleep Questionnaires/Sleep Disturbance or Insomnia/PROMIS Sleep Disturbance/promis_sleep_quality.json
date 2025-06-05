@@ -1,7 +1,11 @@
 {
   "id": "promis_sleep_quality",
-  "display_name": "1. My sleep quality was",
-  "description": "",
+  "display_name": "PROMIS Sleep Disturbance Short Form 8a: My sleep quality was",
+  "description": "Item from the PROMIS Sleep Disturbance instrument Short Form 8a. [Buysse et al, 2010 (PMID: 20550019)](https://pubmed.ncbi.nlm.nih.gov/20550019/)<br><br> [Search for all PROMIS SD variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissd)",
   "type": "choices",
-  "domain": "good_poor"
+  "domain": "good_poor",
+  "labels": [
+    "promissd_08slpqual",
+    "promissd"
+  ]
 }

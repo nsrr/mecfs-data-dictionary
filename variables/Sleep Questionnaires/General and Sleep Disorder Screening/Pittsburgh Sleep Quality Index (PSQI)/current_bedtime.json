@@ -1,6 +1,10 @@
 {
   "id": "current_bedtime",
-  "display_name": "1. When have you usually gone to bed? (HH:MM)",
-  "description": "",
-  "type": "text"
+  "display_name": "Pittsburgh Sleep Quality Index: When usually gone to bed the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=my3jgPQcjHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "type": "text",
+  "labels": [
+    "psqi_01gonetobed",
+    "psqi"
+  ]
 }

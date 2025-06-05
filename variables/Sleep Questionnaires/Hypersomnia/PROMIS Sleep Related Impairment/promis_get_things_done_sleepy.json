@@ -1,7 +1,11 @@
 {
   "id": "promis_get_things_done_sleepy",
-  "display_name": "1. I had a hard time getting things done because I was sleepy...",
-  "description": "",
+  "display_name": "PROMIS Sleep-Related Impairment: Had a hard time getting things done because sleepy",
+  "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissri)",
   "type": "choices",
-  "domain": "promis"
+  "domain": "promis",
+  "labels": [
+    "promissri_01done",
+    "promissri"
+  ]
 }

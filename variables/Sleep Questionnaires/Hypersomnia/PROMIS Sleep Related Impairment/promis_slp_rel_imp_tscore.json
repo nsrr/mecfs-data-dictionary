@@ -1,6 +1,9 @@
 {
   "id": "promis_slp_rel_imp_tscore",
-  "display_name": "Sleep Related Impairment T Score Calculation",
+  "display_name": "PROMIS Sleep-Related Impairment: T Score Calculation",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "promissri"
+  ]
 }

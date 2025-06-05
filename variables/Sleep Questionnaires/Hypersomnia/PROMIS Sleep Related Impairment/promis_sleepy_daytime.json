@@ -1,7 +1,11 @@
 {
   "id": "promis_sleepy_daytime",
-  "display_name": "7. I was sleepy during the daytime...",
-  "description": "",
+  "display_name": "PROMIS Sleep-Related Impairment: Sleepy during the daytime",
+  "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissri)",
   "type": "choices",
-  "domain": "promis"
+  "domain": "promis",
+  "labels": [
+    "promissri_07dayslp",
+    "promissri"
+  ]
 }

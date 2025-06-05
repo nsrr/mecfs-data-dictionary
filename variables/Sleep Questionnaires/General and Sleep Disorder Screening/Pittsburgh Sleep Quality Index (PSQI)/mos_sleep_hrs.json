@@ -1,6 +1,10 @@
 {
   "id": "mos_sleep_hrs",
-  "display_name": "4. A. How many hours of actual sleep did you get at night?",
-  "description": "",
-  "type": "text"
+  "display_name": "Pittsburgh Sleep Quality Index: Hours of actual sleep at night the past month",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=m1mQgx45sHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "type": "text",
+  "labels": [
+    "psqi_04actualslp",
+    "psqi"
+  ]
 }

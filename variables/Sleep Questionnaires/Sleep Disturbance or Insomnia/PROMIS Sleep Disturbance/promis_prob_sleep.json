@@ -1,7 +1,11 @@
 {
   "id": "promis_prob_sleep",
-  "display_name": "3. I had a problem with my sleep",
-  "description": "",
+  "display_name": "PROMIS Sleep Disturbance Short Form 8a: I had a problem with my sleep ",
+  "description": "Item from the PROMIS Sleep Disturbance instrument Short Form 8a. [Buysse et al, 2010 (PMID: 20550019)](https://pubmed.ncbi.nlm.nih.gov/20550019/)<br><br> [Search for all PROMIS SD variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissd)",
   "type": "choices",
-  "domain": "promis"
+  "domain": "promis",
+  "labels": [
+    "promissd_05problem",
+    "promissd"
+  ]
 }
