@@ -6,6 +6,7 @@
   "domain": "how_often",
   "labels": [
     "psqi_13dream",
-    "psqi"
+    "psqi",
+    "nightmare"
   ]
 }

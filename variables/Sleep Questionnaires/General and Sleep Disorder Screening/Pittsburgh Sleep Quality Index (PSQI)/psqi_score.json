@@ -5,6 +5,8 @@
   "type": "integer",
   "labels": [
     "psqi",
-    " psqi_total"
+    " psqi_total",
+    "sleep_quality",
+    "insomnia"
   ]
 }

@@ -1,11 +1,13 @@
 {
   "id": "promis_felt_alert_woke_up",
   "display_name": "PROMIS Sleep-Related Impairment: Felt alert when wake up",
-  "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissri)",
+  "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=promissri)",
   "type": "choices",
   "domain": "promis_re",
   "labels": [
     "promissri_02alert",
-    "promissri"
+    "promissri",
+    "sleep_quality",
+    "SleepHealth_alertness"
   ]
 }

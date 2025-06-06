@@ -1,9 +1,11 @@
 {
   "id": "promis_sleep_dist_tscore",
   "display_name": "PROMIS Sleep Disturbance Short Form 8a: T Score Calculation",
-  "description": "",
+  "description": "Calculated - Summary score for the PROMIS Sleep Disturbance Short Form 8a. Each item ranges from 1 to 5. The raw score is the sum of 8 items, and the T-score is identified by looking up total raw score in a T-score table. A T-score of 60 corresponded to significant sleep problems (roughly 1 SD worse than average). [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SD variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=promissd)",
   "type": "numeric",
   "labels": [
-    "promissd"
+    "promissd_total",
+    "promissd",
+    "insomnia"
   ]
 }

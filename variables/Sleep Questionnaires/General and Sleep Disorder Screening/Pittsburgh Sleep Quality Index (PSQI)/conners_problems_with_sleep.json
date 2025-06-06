@@ -1,11 +1,13 @@
 {
   "id": "conners_problems_with_sleep",
   "display_name": "Pittsburgh Sleep Quality Index: Wake in the middle or night or early morning the past month",
-  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=QJp3gomcsHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=QJp3gomcsHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "choices",
   "domain": "how_often",
   "labels": [
     "psqi_07wakeearly",
-    "psqi"
+    "psqi",
+    "insomnia",
+    "SleepHealth_insomnia"
   ]
 }

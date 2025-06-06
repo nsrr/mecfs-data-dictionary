@@ -1,10 +1,13 @@
 {
   "id": "bed_hrs",
   "display_name": "Pittsburgh Sleep Quality Index: Hours in bed the past month",
-  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XkzBvAup68)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XkzBvAup68)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "text",
   "labels": [
     "psqi_05timeinbed",
-    "psqi"
+    "psqi",
+    "sleep_duration",
+    "sleep_efficiency",
+    "SleepHealth_duration"
   ]
 }

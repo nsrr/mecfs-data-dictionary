@@ -1,9 +1,11 @@
 {
   "id": "promis_slp_rel_imp_tscore",
   "display_name": "PROMIS Sleep-Related Impairment: T Score Calculation",
-  "description": "",
+  "description": "Summary score for the PROMIS Sleep-Related Impairment instrument. Each item ranges from 1 to 5. The raw score is the sum of 8 items, and the T-score is identified by looking up total raw score in a T-score table. Higher score indicates more severe sleep related impairment.[Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=promissri)",
   "type": "numeric",
   "labels": [
-    "promissri"
+    "promissri_total",
+    "promissri",
+    "sleep_related_impairment"
   ]
 }

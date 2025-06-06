@@ -1,11 +1,12 @@
 {
   "id": "problem_stay_awake",
   "display_name": "Pittsburgh Sleep Quality Index: Trouble staying awake while driving, eating, or engaging socially last month",
-  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=7JAhxs7cjrA)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=7JAhxs7cjrA)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "choices",
   "domain": "how_often",
   "labels": [
     "psqi_17stayawake",
-    "psqi"
+    "psqi",
+    "sleep_related_impairment"
   ]
 }

@@ -1,11 +1,12 @@
 {
   "id": "rx_help_sleep",
   "display_name": "Pittsburgh Sleep Quality Index: How often taken prescribed medicine to help with sleep last month",
-  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=myy6gi7qor0)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=myy6gi7qor0)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "choices",
   "domain": "how_often",
   "labels": [
     "psqi_16rxmeds",
-    "psqi"
+    "psqi",
+    "insomnia_treatment"
   ]
 }

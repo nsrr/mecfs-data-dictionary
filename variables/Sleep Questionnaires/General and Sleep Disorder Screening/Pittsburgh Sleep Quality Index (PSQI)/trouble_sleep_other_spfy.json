@@ -1,11 +1,12 @@
 {
   "id": "trouble_sleep_other_spfy",
   "display_name": "Pittsburgh Sleep Quality Index: Other reasons for trouble sleeping last month",
-  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XkNheiQ5iHA)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psqi)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=XkNheiQ5iHA)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mecfs/variables?search=psqi)",
   "type": "choices",
   "domain": "how_often",
   "labels": [
     "psqi_15other",
-    "psqi"
+    "psqi",
+    "insomnia"
   ]
 }
