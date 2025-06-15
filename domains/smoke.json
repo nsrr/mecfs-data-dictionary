@@ -1,12 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "non smoker",
+    "display_name": "never smoked",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "smoker",
+    "display_name": "former smoker",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "current smoker",
     "description": ""
   }
 ]

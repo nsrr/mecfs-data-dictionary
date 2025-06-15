@@ -1,12 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "does not use marijuana",
+    "display_name": "never used marijuana",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "uses marijuana",
+    "display_name": "formerly used marijuana",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "currently using marijuana",
     "description": ""
   }
 ]
