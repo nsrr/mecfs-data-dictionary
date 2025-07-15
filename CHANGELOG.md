@@ -1,4 +1,4 @@
-## 0.1.0 
+## 0.1.0 (July 15, 2025)
 
 - Create NSRR harmonized variables
 - Incorporated original covariate data and metadata from contributor
