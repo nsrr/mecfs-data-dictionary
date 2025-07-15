@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "healthy volunteers",
+    "display_name": "Hv",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "post-infectious myalgic encephalomyelitis/chronic fatigue syndrome",
+    "display_name": "Pi-Me/Cfs",
     "description": ""
   }
 ]

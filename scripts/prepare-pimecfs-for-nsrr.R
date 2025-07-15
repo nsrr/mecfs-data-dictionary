@@ -163,7 +163,7 @@ merged_data <- merged_data %>%
   select(participantid, mecfsid, edf_filename, visit, everything()) %>%
   arrange(participantid)
 
-output_file <- "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20250114-walitt-mecfs/nsrr-prep/_releases/0.1.0.pre/dataset/mecfs-dataset-0.1.0.pre.csv"
+output_file <- "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20250114-walitt-mecfs/nsrr-prep/_releases/0.1.0.pre/dataset/pimecfs-dataset-0.1.0.pre.csv"
 write_csv(merged_data, output_file, na = '')
 
 
@@ -193,12 +193,19 @@ harmonized_data<-merged_data[,c("participantid", "edf_filename","visit","age_at_
                 nsrr_bmi = bmi,
                 nsrr_ever_smoker = dplyr::case_when(
                   smoking==1 ~ "yes",
+                  smoking==2 ~ "yes",
                   smoking==0 ~ "no",
                   TRUE ~ "not reported"
-                )) %>% select(nsrrid, edf_filename, visit, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity, nsrr_bmi, nsrr_ever_smoker)%>%
+                ),
+                nsrr_current_smoker = dplyr::case_when(
+                  smoking==1 ~ "no",
+                  smoking==2 ~ "yes",
+                  smoking==0 ~ "no",
+                  TRUE ~ "not reported"
+                )) %>% select(nsrrid, edf_filename, visit, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity, nsrr_bmi, nsrr_ever_smoker,nsrr_current_smoker)%>%
   arrange(nsrrid)
 
-write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20250114-walitt-mecfs/nsrr-prep/_releases/0.1.0.pre/dataset/mecfs-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
+write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20250114-walitt-mecfs/nsrr-prep/_releases/0.1.0.pre/dataset/pimecfs-harmonized-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 
 
 
